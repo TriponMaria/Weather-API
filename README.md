@@ -4,5 +4,4 @@
 
 * Setup Flask 
 * Show stations table on the homepage
-* Return temperature for any station and date
-* Add URL endpoint for yearly and all data
+* Add URL endpoint for a specific date, yearly data and all data
